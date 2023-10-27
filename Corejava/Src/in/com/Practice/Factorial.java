@@ -15,6 +15,6 @@ public class Factorial {
 			a=a*i;
 		}
 		System.out.println(a);
-
+		s.close();
 	}
 }

@@ -8,8 +8,6 @@ public class Try_catch {
         	int i = 15;
         int j = 0;
         String name = "lokesh";
-        
-        
         	//System.out.println(name.charAt(9));
             int k = i/j;
             System.out.println(k);

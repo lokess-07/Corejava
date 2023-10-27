@@ -18,5 +18,4 @@ class S2 extends S1{
 		//super.sdetail();
 		System.out.println("my name is nikhil");
 	}
-	
 }

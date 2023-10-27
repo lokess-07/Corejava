@@ -23,5 +23,6 @@ public class Palindrom_no {
 		}else {
 			System.out.println(d+" this is not palindrom no :");
 		}
+		sc.close();
 	}
 }

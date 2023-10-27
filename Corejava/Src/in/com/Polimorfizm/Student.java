@@ -1,6 +1,6 @@
 package in.com.Polimorfizm;
-	//mrthod overloading
-public class Student {// compiole time polimorfizm
+	//method overloading
+public class Student {// compile time polimorfizm
 	public void book() {
 		System.out.println("This is java book");
 	}

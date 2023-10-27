@@ -5,14 +5,13 @@ public class Main {
 		//Inheritance = the process were one class 
 		//				the attributes and methods of others
 		
-		Car c = new Car();
-		
+		//Car c = new Car();
 		Bicycle b = new Bicycle(); 
 		
-	   c.go();
+	   b.go();
 	   b.stop();
-	   System.out.println(c.speed);
+	  // System.out.println(c.speed);
 	   System.out.println(b.doors);
-	   System.out.println(c.color);
+	 // System.out.println(c.color);
 }
 }
