@@ -13,4 +13,5 @@ public class Coaching implements Cloneable {
 		ch.clg = (Collage) clg.clone();
 		return ch;
 	}
-}
+	}
+

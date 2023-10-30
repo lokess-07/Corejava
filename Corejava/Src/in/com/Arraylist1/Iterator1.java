@@ -12,7 +12,7 @@ public static void main(String[] args) {
 	while(i.hasNext()) {
 		Object o = i.next();
 		System.out.println(o);
-	}
+		}
 	
-}
+	}
 }

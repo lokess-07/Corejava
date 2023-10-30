@@ -22,6 +22,7 @@ public class Laptop_test {
 		System.out.println(l1.getCompany());
 		System.out.println(l1.color);
 		System.out.println(l1.getPrice());
+		sc.close();
 	}
 
 }

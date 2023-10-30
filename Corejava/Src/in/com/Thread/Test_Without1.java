@@ -6,5 +6,6 @@ public class Test_Without1 {
 		WithOut1 w2 = new WithOut1("The Boss");
 		w1.run();
 		w2.run();
+		
 	}
 }
